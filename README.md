@@ -54,7 +54,7 @@ Les 5 tables analysées :
 
 ## 🛠️ Stack technique
 
-- **Python 3.13**
+- **Python**
 - **Streamlit** — application interactive
 - **Pandas / NumPy** — manipulation des données
 - **Plotly** — visualisations interactives
