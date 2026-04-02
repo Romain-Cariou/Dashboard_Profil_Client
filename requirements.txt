@@ -5,3 +5,5 @@ matplotlib
 seaborn
 scipy
 prince
+plotly==5.18.0
+kaleido
